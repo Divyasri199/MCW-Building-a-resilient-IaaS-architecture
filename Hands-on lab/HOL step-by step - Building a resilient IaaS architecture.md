@@ -180,12 +180,12 @@ In this task, you will build a Windows Failover Cluster and configure SQL Always
 
     - **Resource group**: Use existing / ContosoRG1
     - **Storage account name:** Unique name starting with `contososqlwitness`
-    - **Location**: Any location in your area that is **NOT** your Primary or Secondary site, for example **West US 2**
+    - **Location**: Any location in your area that is **NOT** your Primary or Secondary site, for example **East US 2**
     - **Performance**: Standard
     - **Replication**: Zone-redundant storage (ZRS)
-    - **Access tier (default)**: Hot
+    - Click on **Next : Advanced >**
 
-    ![Fields in the Create storage account blade are set to the previously defined settings.](images/ha-storage.png "Create storage account blade")
+    ![Fields in the Create storage account blade are set to the previously defined settings.](../Hands-on%20lab/images/createstorageaccount.png)
 
 3.  Switch to the **Advanced** tab. Change the **Minimum TLS version** to **Version 1.0**. Then select **Review + Create**, followed by **Create**.
 
