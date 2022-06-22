@@ -204,6 +204,10 @@ In this task, you will build a Windows Failover Cluster and configure SQL Always
 6.  In the **BackendPool1** blade, select **+ Add** and choose the two SQL VMs. Select **Add** to close. Select **Save** to add these SQL VMs to **BackEndPool1**.
 
     ![Azure portal showing SQLVM1 and SQLVM2 being added to the backend pool](images/ha-sql-poolvms.png "Backend pool VMs")
+    
+1. Select **Save** to add these SQL VMs to **BackEndPool1**.
+
+    ![](../Hands-on%20lab/images/BEP1.png)
 
     > **Note:** The load-balancing rule in the load balancer has been created with **Floating IP (direct server return)** enabled. This is important when using the Azure load balancer for SQL Server AlwaysOn Availability Groups.
 
