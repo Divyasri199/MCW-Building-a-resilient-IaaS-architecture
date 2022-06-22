@@ -222,7 +222,7 @@ In this task, you will build a Windows Failover Cluster and configure SQL Always
 
    >**Info :** If you are prompted with any popup blocker, click on **Pop-up blocked** from right corner and click on **Always allows pop-ups and redirects from https://portal.azure.com** then click on **Done**.
 
-      ![](../Hands-on%20lab/images/pop-up.png)
+   ![](../Hands-on%20lab/images/pop-up.png)
    
 
 8.  On **SQLVM1**, select **Start** and then choose **Windows PowerShell ISE**.
