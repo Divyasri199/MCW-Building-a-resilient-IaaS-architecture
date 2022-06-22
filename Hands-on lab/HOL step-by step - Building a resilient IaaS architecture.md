@@ -303,9 +303,10 @@ In this task, you will build a Windows Failover Cluster and configure SQL Always
 
     ![A pop-up asks you to confirm that you want to make the changes and restart the service. The Yes button is selected.](images/image171.png "Confirm Account Change pop-up")
 
-25. Return to the Azure portal and open a new Azure Bastion session to **SQLVM2**. Launch **SQL Server 2017 Configuration Manager** and repeat the steps above to **Enable SQL AlwaysOn** and change the **Log On** username. Make sure that you have restarted the SQL Service.
+25. Return to the Azure portal and open a new Azure Bastion session to **SQLVM2**. This time use `demouser` as the username instead of `demouser@contoso.com` and `Password` as **Demo!pass123**. 
 
-26. Return to the Azure portal and open a second Azure Bastion session to **SQLVM2**. This time use `demouser` as the username instead of `demouser@contoso.com`.
+
+27. Launch **SQL Server 2017 Configuration Manager** and repeat the steps above to **Enable SQL AlwaysOn** and change the **Log On** username. Make sure that you have restarted the SQL Service.
 
 27. Select **Connect** to sign on to **SQLVM2**. **Note**: The username for your lab should show **CONTOSO\demouser**.
 
