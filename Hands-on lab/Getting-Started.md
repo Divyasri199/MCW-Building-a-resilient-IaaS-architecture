@@ -17,41 +17,41 @@ Duration: 10 mins
 
 ## Login to Azure Portal
 
-1. Lets start by logging into the Azure Portal to check the resources deployed for the lab environment. In the JumpVM on the left, click on the Azure portal shortcut of Microsoft Edge browser which is available on the desktop.
+1. Let us start by logging into the Azure Portal to check the resources deployed for the lab environment. In the virtual machine (VM) on the left, click on the Azure portal desktop icon as shown below.
 
-2. When you click on Azure portal, the edge browser welcome screen will pop up, select **Get started**.
+   ![](https://github.com/CloudLabsAI-Azure/AIW-Azure-Network-Solutions/blob/main/media/gs4.png?raw=true)
+   
+1. When you click on Azure portal, the edge browser welcome screen will come up, select **Start without your data**.
 
-   ![](images/edge-get-started-window.png "Get started")
+   ![](../media/startwithoutdata.png)
+   
+1. On the next window, click on **Continue without this data**.
 
-3. On the next window, click on **Confirm**.
+   ![](../media/continuewithoutthis.png)
+   
+1. Click on **Confirm and start browsing**.
 
-   ![](images/edge-confirm.png "Confirm")
+   ![](../media/confirmandstartbrowsing.png)
+   
+1. Now, you will see two tabs in the edge browser, close the first tab named with **Microsoft Edge**.
 
-4. You can close the popup which is shown below.
-
-   ![](images/edge-continue.png "Confirm")
-
-5. Now, you will see two tabs in the edge browser, close the first tab named **Microsoft Edge** to move to the other tab.
-
-   ![](images/close-tab.png "Close Tab")
-
-6. On the **Sign into Microsoft Azure** tab, you will see the login screen, enter the following username, and, then click on **Next**.
+1. On the **Sign in to Microsoft Azure** window, you will see the login screen, enter the following username and click on **Next**.
 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
 
-   ![](images/azure-login-enter-email.png "Enter Email")
+   ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-portalsignin-1.png?raw=true)
 
-7. Now enter the following password and click on **Sign in**. 
+1. Now enter the following password and click on **Sign in**. 
 
    * Password: <inject key="AzureAdUserPassword"></inject>
+   
+   ![](https://github.com/CloudLabsAI-Azure/AIW-SAP-on-Azure/blob/main/media/M2-Ex1-portalsignin-2.png?raw=true)
 
-   ![](images/azure-login-enter-password1.png "Enter Password")
+1. First-time users are often prompted to **Stay Signed In**, if you see any such pop-up, click on **No**
 
-8. If you see the pop-up **Stay Signed in?**, click on No
+   ![](../media/click%20no.png)
 
-9. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
+1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
-10. If a **Welcome to Microsoft Azure** popup window appears, click **Maybe Later** to skip the tour.
-
-11. Click on **Next** to proceed with the lab.
+1. If a **Welcome to Microsoft Azure** popup window appears, click **Maybe Later** to skip the tour.
   
