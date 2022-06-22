@@ -163,10 +163,18 @@ In this task, you will reboot all the servers to ensure they have the latest DNS
 
 In this task, you will build a Windows Failover Cluster and configure SQL Always On Availability Groups to create a high-availability database tier.
 
+1. In the Azure Portal, from the upper left corner select **menu (1)** icon with three lines as highlighted below and then select **+ Create a resource (2)**.
 
-1. In the Azure portal's left navigation, select **+ Create a resource**, then search for and select **Storage account**, followed by **Create**.
+    ![](https://github.com/CloudLabsAI-Azure/AIW-Azure-Network-Solutions/raw/main/media/createrenew.png)
+    
+1. In the search box, type **Storage account** and select to open it.
 
-   ![Screenshot of the Azure portal showing the create storage account navigation.](images/storage-create.png "Create storage account blade")
+    ![](../Hands-on%20lab/images/selectsa.png)
+  
+1. Click on **Create**.
+
+   ![](../Hands-on%20lab/images/createsa.png)
+
    
 2. Complete the **Create storage account** form using the following details:
 
