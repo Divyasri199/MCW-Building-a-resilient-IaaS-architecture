@@ -220,7 +220,7 @@ In this task, you will build a Windows Failover Cluster and configure SQL Always
     
     > **Note:** When using Azure Bastion to connect to a VM using domain credentials, the username must be specified in the format `user@domain-fqdn`, and **not** in the format `domain\user`.
 
-   >**Info :** If you are prompted with any popup blocker, click on **Pop-up blocked** from right corner and click on **Always allows pop-ups and redirects from https://portal.azure.com** then click on **Done**.
+    > **Info :** If you are prompted with any popup blocker, click on **Pop-up blocked** from right corner and click on **Always allows pop-ups and redirects from https://portal.azure.com** then click on **Done**.
 
    ![](../Hands-on%20lab/images/pop-up.png)
    
