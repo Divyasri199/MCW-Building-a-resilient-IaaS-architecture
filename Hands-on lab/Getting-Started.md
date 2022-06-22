@@ -23,15 +23,11 @@ Duration: 10 mins
    
 1. When you click on Azure portal, the edge browser welcome screen will come up, select **Start without your data**.
 
-   ![](../media/startwithoutdata.png)
+   ![](https://github.com/CloudLabsAI-Azure/AIW-Azure-Network-Solutions/raw/main/media/startwithoutdata.png))
    
-1. On the next window, click on **Continue without this data**.
+1. On the next window, click on **Confirm and start browsing**.
 
-   ![](../media/continuewithoutthis.png)
-   
-1. Click on **Confirm and start browsing**.
-
-   ![](../media/confirmandstartbrowsing.png)
+   [![](https://github.com/CloudLabsAI-Azure/AIW-Azure-Network-Solutions/raw/main/media/confirmandstartbrowsing.png)
    
 1. Now, you will see two tabs in the edge browser, close the first tab named with **Microsoft Edge**.
 
@@ -49,7 +45,7 @@ Duration: 10 mins
 
 1. First-time users are often prompted to **Stay Signed In**, if you see any such pop-up, click on **No**
 
-   ![](../media/click%20no.png)
+   ![](https://github.com/CloudLabsAI-Azure/AIW-Azure-Network-Solutions/raw/main/media/click%20no.pngg)
 
 1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
 
